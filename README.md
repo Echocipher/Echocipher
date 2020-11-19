@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on Qihoo360
+- 🔭 I’m currently working on Qihoo 360
 - 🌱 I’m currently learning Pentest && Pwn
 - 📫 Blog: https://www.echocipher.life/
 - 😄 Study hard and make progress every day
