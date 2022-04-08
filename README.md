@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on Qihoo 360
+- 🔭 I currently work at Qihoo 360's Linton Lab
 - 🌱 I’m currently learning Pentest && Pwn
 - 📫 Blog: https://www.echocipher.com/
 - 😄 Study hard and make progress every day
